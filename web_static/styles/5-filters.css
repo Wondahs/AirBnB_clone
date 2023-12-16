@@ -34,28 +34,25 @@ section.filters button:hover {
 	width: 25%;
 	text-align: left;
 	border-right: solid 1px #DDDDDD;
-	float: left;
-	margin-left: 0px;
+	margin-left: 20px;
 }
 
-.ameniities {
+.amenities {
 	text-align: left;
 	height: 100%;
 	width: 25%;
-	float: left;
-	margin-left: 30px;
+	margin-left: 20px;
+	margin-right: 400px;
 }
 
 h3 {
 	margin: 0;
-	padding: 0;
 	font-weight: 600;
 	margin-top: 17px;
 }
 
 h4 {
 	margin: 0;
-	padding: 0;
 	font-weight: 400;
 	font-size: 14px;
 }
